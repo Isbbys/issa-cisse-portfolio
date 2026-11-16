@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://isbbys.github.io/issa-cisse-portfolio/sitemap.xml
